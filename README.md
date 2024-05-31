@@ -3,7 +3,7 @@
 ## This is [S.M. Faizul Islam Fair](https://faizul-islam.vercel.app/) 
 ## Portfolio Site: [<u>https://faizul-islam.vercel.app/</u>](https://faizul-islam.vercel.app/)
 
-# Main Github ID: [S.M. Faizul Islam Fair](https://github.com/faizulislamfair)
+# Main Github ID: [faizulislamfair](https://github.com/faizulislamfair)
 
 ## Hacktoberfest 2023 Reward Kit
 
