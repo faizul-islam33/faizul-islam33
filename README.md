@@ -4,3 +4,7 @@
 ### Portfolio Site: [<u>https://faizul-islam.vercel.app/</u>](https://faizul-islam.vercel.app/)
 
 ## Main Github ID: [S.M. Faizul Islam Fair](https://github.com/faizulislamfair)
+
+### <b>Hacktoberfest 2023 Reward Kit</b>
+
+<img alt="Hacktoberfest 2023 Reward Kit" width="700px" src="hacktoberfest_reward.png" />
